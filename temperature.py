@@ -15,3 +15,11 @@ def celsiusToFahrenheit(temperature):
 
 
 # write a couple tests for this program. They should call the function celsiusToFahrenheit and check that the returned value is correct
+
+def celsiustofahrenheit(celsius):
+    fahrenheit = (celsius * 1.8) + 32
+    return fahrenheit
+
+celsius = float(input("Enter the Temeperature in Celsius Scale"))
+fahrenheit = celsiustofahrenheit(celsius)
+print("The value of the temperature in Fahrenheit:", fahrenheit)
