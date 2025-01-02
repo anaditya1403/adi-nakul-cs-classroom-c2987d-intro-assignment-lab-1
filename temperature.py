@@ -25,3 +25,27 @@ fahrenheit = celsiustofahrenheit(celsius)
 print("The value of the temperature in Fahrenheit:", fahrenheit)
 
 #Thank You So MUCH NAks BOsss
+
+#OUTPUT:
+#Enter the Temeperature in Celsius Scale37.5
+#The value of the temperature in Fahrenheit: 99.5
+
+#Enter the Temeperature in Celsius Scale44
+#The value of the temperature in Fahrenheit: 111.2
+#S C:\Users\Admin\OneDrive\Documents\GitHub\adi-nakul-cs-classroom-c2987d-intro-assignment-lab-1>
+
+#Enter the Temeperature in Celsius Scale0
+#The value of the temperature in Fahrenheit: 32.0
+#PS C:\Users\Admin\OneDrive\Documents\GitHub\adi-nakul-cs-classroom-c2987d-intro-assignment-lab-1>
+
+#Enter the Temeperature in Celsius Scale100
+#The value of the temperature in Fahrenheit: 212.0
+#PS C:\Users\Admin\OneDrive\Documents\GitHub\adi-nakul-cs-classroom-c2987d-intro-assignment-lab-1>
+
+#Enter the Temeperature in Celsius Scale69
+#The value of the temperature in Fahrenheit: 156.2
+#PS C:\Users\Admin\OneDrive\Documents\GitHub\adi-nakul-cs-classroom-c2987d-intro-assignment-lab-1>
+
+#Enter the Temeperature in Celsius Scale273
+#The value of the temperature in Fahrenheit: 523.4000000000001
+#PS C:\Users\Admin\OneDrive\Documents\GitHub\adi-nakul-cs-classroom-c2987d-intro-assignment-lab-1>
